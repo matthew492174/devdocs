@@ -1,5 +1,6 @@
 {
     "yaml.customTags": [
         "!script"
-    ]
+    ],
+    "php.debug.executablePath": ""
 }
